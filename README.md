@@ -1,4 +1,4 @@
-hoge
+# hoge
 test2
 ローカルリポで変更
 conflict-remoteブランチで変更
